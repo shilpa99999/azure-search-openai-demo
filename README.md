@@ -49,8 +49,6 @@ This template, the application code and configuration it contains, has been buil
 
 ![Chat screen](docs/images/chatscreen.png)
 
-[📺 Watch a video overview of the app.](https://youtu.be/3acB0OWmLvM)
-
 This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access a GPT model (gpt-4.1-mini), and Azure AI Search for data indexing and retrieval.
 
 The repo includes sample data so it's ready to try end to end. In this sample application we use a fictitious company called Contoso Electronics, and the experience allows its employees to ask questions about the benefits, internal policies, as well as job descriptions and roles.
@@ -292,9 +290,6 @@ so please use the support mechanisms described above, and we will do our best to
 
 For general questions about developing AI solutions on Azure,
 join the Azure AI Foundry Developer Community:
-
-[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ### Note
 
